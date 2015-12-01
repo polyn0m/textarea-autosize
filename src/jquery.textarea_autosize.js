@@ -51,4 +51,4 @@
     return this;
   };
 
-})(jQuery, window, document);
+})(require('jquery'), window, document);
